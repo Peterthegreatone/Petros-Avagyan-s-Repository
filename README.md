@@ -18,6 +18,6 @@ Education
 MMA, Analytics (Data Science & AI) — Queen's University, 2026–2027 BSc Honours, Statistics & Actuarial Mathematics — York University 
 
 Reach me
-647-569-6734
-https://www.linkedin.com/in/petros-avagyan/
+647-569-6734,
+https://www.linkedin.com/in/petros-avagyan/,
 pavagyan@gmail.com
