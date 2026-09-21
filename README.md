@@ -1,42 +1,21 @@
-# Hi, I'm Petros Avagyan
+Hi, I'm Petros Avagyan
 
-**Data Analyst** — Python · SQL · Power BI. Based in Toronto.
+Data & Analytics — Python · SQL · Power BI. Toronto.
 
-Currently at Hitachi Rail. [One or two sentences: what you actually do with data day to day, and the kind of analysis work you want to move toward. Plain language, the way you'd say it in a conversation.]
+Data and Business Intelligence analyst at Hitachi Rail, working on Power BI reports and semantic data models, while completing a Master of Management in Analytics at Queen's University. Background in statistics and actuarial mathematics. Most of what I enjoy sits where forecasting, SQL and dashboards meet.
+Featured projects
+Project	What it does	Stack
+Project name	The question it answers and what you found.	Python · pandas
+Project name	The question it answers and what you found.	SQL · Power BI
+Project name	The question it answers and what you found.	Python · statsmodels
 
----
+What I work with
 
-## Featured projects
+Languages — Python, R, SQL / T-SQL Analysis — pandas, NumPy, statsmodels, Prophet, scikit-learn Visualization — Power BI (DAX, Power Query, RLS), Tableau, matplotlib, seaborn Data platforms — SQL Server, Snowflake, BigQuery, Azure Fabric, Alteryx Other — Git, Docker, VS Code, Excel / VBA
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project name](https://github.com/Peterthegreatone/repo-name)** | One line on the question it answers and what you found. | Python · pandas |
-| **[Project name](https://github.com/Peterthegreatone/repo-name)** | One line on the question it answers and what you found. | SQL · Power BI |
-| **[Project name](https://github.com/Peterthegreatone/repo-name)** | One line on the question it answers and what you found. | Python · SQL |
+Education
 
-<!-- Pin these same repos: profile → Customize your pins → select up to 6. -->
+MMA, Analytics (Data Science & AI) — Queen's University, 2026–2027 BSc Honours, Statistics & Actuarial Mathematics — York University BSc, Computer Science — French University in Armenia (UFAR)
 
----
+Reach me
 
-## What I work with
-
-**Languages** — Python, SQL
-**Analysis** — pandas, NumPy
-**Visualization** — Power BI, matplotlib, seaborn
-**Databases** — [PostgreSQL / MySQL / whichever you've actually used]
-**Other** — Git, Jupyter, Excel
-
-<!-- Cut anything you wouldn't want questions about in an interview. -->
-
----
-
-## Certifications
-
-- **[Certification name](LINK)** — DataCamp, [Month Year]
-- **[Certification name](LINK)** — DataCamp, [Month Year]
-
----
-
-## Reach me
-
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Email](mailto:you@example.com)
